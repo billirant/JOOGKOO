@@ -1,0 +1,35 @@
+
+    
+p{
+   text-align: center;
+    font-weight: 200;
+    font-size: 100px;
+}
+body{
+    text-align: center;
+}
+img{
+    text-align: center;
+    display: inline-block;
+}
+.center{
+    margin: auto;
+    width: 80%;
+
+}
+img{
+    text-align: center;
+}
+button{
+    width: 5%;
+}
+
+input{
+    width: 50%;
+}
+strong{
+    font-size: 40px;
+}
+em{
+    background-color:rgb(243, 180, 201);
+}
